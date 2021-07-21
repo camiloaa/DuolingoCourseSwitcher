@@ -4,6 +4,10 @@ This userscript for [Duolingo](https://www.duolingo.com/) simplifies switching y
 
 It uses [local storage](https://en.wikipedia.org/wiki/Web_storage) to track your courses, it may not work as expected if you clear your browser's data.
 
+## Course Switcher is dead!
+
+This script became useless since duolingo implemented quickly changing languages.
+
 ### Installing
 
 1. If haven't already, install the appropriate extension for your browser (restarting your browser afterwards if necessary):
